@@ -1,0 +1,26 @@
+.dev{
+ border:none;
+ background-color: rgba(29,229,146,255);
+ font-family: sans-serif;
+ width: 720px;
+ padding: 150px 60px ;
+ margin: 100px auto;
+ box-sizing: border-box;
+ border-radius:10px;
+
+
+}
+.btn{
+    font-weight:bold;
+    font-size: large;
+    border-radius:40px;
+    border-top:30px;
+    font-family: sans-serif;
+    border:none;
+    padding: 14px 30px;
+    margin-top: 10px;
+
+}
+.h{
+    font-size: 45px;
+}
